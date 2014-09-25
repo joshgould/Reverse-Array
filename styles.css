@@ -1,0 +1,54 @@
+h2 {
+    font-family:arial;
+}
+
+form {
+    display: inline-block;
+}
+
+input {
+    height:26px;
+margin-top:20px;
+}
+
+span {
+    display:block;
+}    
+
+#unsorted p {
+	display: inline;
+	padding:10px;
+	font-size:30px;
+	font-family:arial;
+	font-weight:bold;
+	color:green;
+}
+
+#sorted p {
+	display: inline;
+	padding:10px;
+	font-size:30px;
+	font-family:arial;
+	font-weight:bold;
+	color:green;
+	
+}
+
+#button{
+    display: inline-block;
+    height:26px;
+	width:70px;
+	background-color:#cc0000;
+	font-family:arial;
+	font-weight:bold;
+	color:#ffffff;
+	border-radius: 5px;
+	text-align:center;
+	margin-top:2px;
+	line-height:26px
+}
+.done {
+	color:#cc0000;
+	text-decoration:line-through;
+}
+
