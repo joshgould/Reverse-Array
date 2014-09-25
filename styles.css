@@ -1,5 +1,6 @@
 h2 {
     font-family:arial;
+	padding-top:20px;
 }
 
 form {
@@ -35,10 +36,11 @@ span {
 }
 
 #button{
+	cursor: pointer; cursor: hand; 
     display: inline-block;
     height:26px;
 	width:70px;
-	background-color:#cc0000;
+	background-color:#0066cc;
 	font-family:arial;
 	font-weight:bold;
 	color:#ffffff;
