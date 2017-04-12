@@ -14,12 +14,12 @@ margin-top:20px;
 
 span {
     display:block;
-}    
+}
 
 #unsorted p {
 	display: inline;
 	padding:10px;
-	font-size:30px;
+	font-size:28px;
 	font-family:arial;
 	font-weight:bold;
 	color:green;
@@ -27,19 +27,19 @@ span {
 
 #sorted p {
 	display: inline;
-	padding:10px;
-	font-size:30px;
+	padding:12px;
+	font-size:28px;
 	font-family:arial;
 	font-weight:bold;
-	color:green;
-	
+	color:blue;
+
 }
 
 #button{
-	cursor: pointer; cursor: hand; 
-    display: inline-block;
-    height:26px;
-	width:70px;
+	cursor: pointer; cursor: hand;
+  display: inline-block;
+  height:26px;
+	width:78px;
 	background-color:#0066cc;
 	font-family:arial;
 	font-weight:bold;
@@ -53,4 +53,3 @@ span {
 	color:#cc0000;
 	text-decoration:line-through;
 }
-
