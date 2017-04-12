@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	$button = $('#button');
   	$input = $('#insert');
-   	$list = [1,3,5,7,9,11];	
+   	$list = [1,3,5,7,9,11,13];	
 	$unsorted = $('#unsorted');
 	$sorted = $('#sorted');
 
