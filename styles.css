@@ -19,7 +19,7 @@ span {
 #unsorted p {
 	display: inline;
 	padding:10px;
-	font-size:30px;
+	font-size:28px;
 	font-family:arial;
 	font-weight:bold;
 	color:green;
@@ -28,7 +28,7 @@ span {
 #sorted p {
 	display: inline;
 	padding:12px;
-	font-size:30px;
+	font-size:28px;
 	font-family:arial;
 	font-weight:bold;
 	color:blue;
